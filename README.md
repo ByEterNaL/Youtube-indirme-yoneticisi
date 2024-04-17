@@ -20,3 +20,5 @@ python main.py
 > [!CAUTION]
 > Bilgisayarınızda Python yüklü olması gerekir.
                
+> [!NOTE]
+> Log sistemi kaldırılmıştır.
