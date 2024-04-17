@@ -1,6 +1,6 @@
-# Youtube indirme yönetcisi
+## Youtube indirme yönetcisi
 
-Kullanım
+# Kurulum
 
 1. Kur.bat dosyasını çalıştırarak gerekli olan kütüphanelerin yüklenmesi sağlanır. Manuel olarak indirmek için Kullanabilirsiniz;
 
@@ -19,4 +19,4 @@ python main.py
 
 > [!CAUTION]
 > Bilgisayarınızda Python yüklü olması gerekir.
-
+               
